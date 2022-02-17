@@ -1,0 +1,9 @@
+//INPUT a
+//sum=0  
+  //IF a>0
+    //sum=sum+a
+    //OUTPUT sum
+  //ELS IF 
+    //OUTPUT sum
+//END IF
+  
