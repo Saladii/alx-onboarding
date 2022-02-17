@@ -1,0 +1,4 @@
+//INPUT a,b,c
+//READ a,b,c
+  //myarray [[a,b,c],[a,c,b],[b,a,c],[b,c,a],[c,a,b],[c,b.a]
+//OUTPUT myarray
